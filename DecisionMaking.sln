@@ -1,0 +1,29 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DecisionMakingEasy", "DecisionMakingEasy\DecisionMakingEasy.csproj", "{8DD245C7-A093-4189-8999-65C48E88AC1F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DecisionMakingMedium", "DecisionMakingMedium\DecisionMakingMedium.csproj", "{68850BF0-CF79-4609-95CB-B279E323ED3B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DecisionMakingHard", "DecisionMakingHard\DecisionMakingHard.csproj", "{5FD33CF7-A28D-45B2-B537-0D4D6AA3E8E3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8DD245C7-A093-4189-8999-65C48E88AC1F}.Debug|x86.ActiveCfg = Debug|x86
+		{8DD245C7-A093-4189-8999-65C48E88AC1F}.Debug|x86.Build.0 = Debug|x86
+		{8DD245C7-A093-4189-8999-65C48E88AC1F}.Release|x86.ActiveCfg = Release|x86
+		{8DD245C7-A093-4189-8999-65C48E88AC1F}.Release|x86.Build.0 = Release|x86
+		{68850BF0-CF79-4609-95CB-B279E323ED3B}.Debug|x86.ActiveCfg = Debug|x86
+		{68850BF0-CF79-4609-95CB-B279E323ED3B}.Debug|x86.Build.0 = Debug|x86
+		{68850BF0-CF79-4609-95CB-B279E323ED3B}.Release|x86.ActiveCfg = Release|x86
+		{68850BF0-CF79-4609-95CB-B279E323ED3B}.Release|x86.Build.0 = Release|x86
+		{5FD33CF7-A28D-45B2-B537-0D4D6AA3E8E3}.Debug|x86.ActiveCfg = Debug|x86
+		{5FD33CF7-A28D-45B2-B537-0D4D6AA3E8E3}.Debug|x86.Build.0 = Debug|x86
+		{5FD33CF7-A28D-45B2-B537-0D4D6AA3E8E3}.Release|x86.ActiveCfg = Release|x86
+		{5FD33CF7-A28D-45B2-B537-0D4D6AA3E8E3}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal
